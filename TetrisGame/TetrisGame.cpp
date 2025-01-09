@@ -541,6 +541,30 @@ void Draw() {
 				printf("LINES: %d", lines);
 			}
 
+			if (i == heightOfNextFigureZone + 5 && j == width + 3) {
+				printf("Control (only US layout): ");
+			}
+
+			if (i == heightOfNextFigureZone + 6 && j == width + 3) {
+				printf("w - rotate figure");
+			}
+
+			if (i == heightOfNextFigureZone + 7 && j == width + 3) {
+				printf("a - move the figure to the left ");
+			}
+
+			if (i == heightOfNextFigureZone + 8 && j == width + 3) {
+				printf("d - move the figure to the right");
+			}
+
+			if (i == heightOfNextFigureZone + 9 && j == width + 3) {
+				printf("s - speed up the fall of a figure down");
+			}
+
+			if (i == heightOfNextFigureZone + 10 && j == width + 3) {
+				printf("x - restart game");
+			}
+
 
 			if (j == 0 || j == width - 1) {
 				printf("#");
