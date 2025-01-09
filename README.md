@@ -2,7 +2,7 @@
 **I'm learning C++ and wanted to make a small test project.  
 The choice fell on Tetris. This is what happened.**  
 
-![image](https://github.com/user-attachments/assets/0dfc7077-260b-4505-86fc-1e17daaa8695)]
+![image](https://github.com/user-attachments/assets/4c896f78-d0dd-41ee-baff-5c45ba5ebc77)
 
 **Game Controls:  
 w - rotate figure  
